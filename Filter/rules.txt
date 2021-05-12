@@ -1,0 +1,22 @@
+! 2021-05-01 https://www.jansatta.com
+www.jansatta.com##header > .mainbox
+www.jansatta.com##.js-btm-nav
+
+! 2021-05-02 https://ndtv.in
+ndtv.in##.add__wrp
+
+! 2021-05-11 https://www.jiosaavn.com
+||jiosaavn.cdn.jio.com^$domain=www.jiosaavn.com
+
+! 2021-05-11 https://ndtv.in
+ndtv.in###jsw-wrap
+ndtv.in##.head-story__wrp > .story__social
+ndtv.in##.swiper-wrapper
+ndtv.in##p > strong
+ndtv.in##.latest-stories-38.lst-drk_wrp.list-section
+ndtv.in##.p-15
+ndtv.in##.footer-section
+ndtv.in##div.pb-15:nth-of-type(1)
+ndtv.in##.story_ft-nav
+ndtv.in##.lozad
+
