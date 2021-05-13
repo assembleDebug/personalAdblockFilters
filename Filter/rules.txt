@@ -1,3 +1,9 @@
+||sb.scorecardresearch.com^
+||api.snapkit.com/v1/sdk/metrics/business/anonymous
+||www.jiosaavn.com^
+||staticfe.saavn.com^
+||c.saavncdn.com^
+
 ! 2021-05-01 https://www.jansatta.com
 www.jansatta.com##header > .mainbox
 www.jansatta.com##.js-btm-nav
@@ -20,3 +26,13 @@ ndtv.in##div.pb-15:nth-of-type(1)
 ndtv.in##.story_ft-nav
 ndtv.in##.lozad
 
+! 2021-05-12 https://www.androidpolice.com
+www.androidpolice.com##.bo-wrapper
+www.androidpolice.com###post-775382 > .categories
+www.androidpolice.com##.footer.band
+www.androidpolice.com##.column.secondary
+www.androidpolice.com##.categories
+www.androidpolice.com##.article-nav
+www.androidpolice.com##.single-post-widget
+www.androidpolice.com##.post-footer-meta
+www.androidpolice.com###disqus_recommendations
