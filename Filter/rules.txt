@@ -36,3 +36,34 @@ www.androidpolice.com##.article-nav
 www.androidpolice.com##.single-post-widget
 www.androidpolice.com##.post-footer-meta
 www.androidpolice.com###disqus_recommendations
+
+! 2022-06-25 https://www.androidpolice.com
+www.androidpolice.com##.ad-zone-content-below-main-pic.ad-zone
+www.androidpolice.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr1 > .ad-current
+www.androidpolice.com##.adzone-above-latest
+
+! 2022-06-25 https://ndtv.in
+ndtv.in##.list > section.add-section > .add__wrp
+ndtv.in##.trd_lst-wrp.swiper-wrapper
+ndtv.in##.add-section
+ndtv.in##.head-story__wrp > .story__social
+ndtv.in##.footer-section
+ndtv.in##.latest-stories-38.lst-drk_wrp.list-section
+ndtv.in##.story_ft-nav
+ndtv.in##.expand-txt > p
+ndtv.in##.mtg_lk
+ndtv.in##.hr-scroll.scroll__nav
+ndtv.in##.js-stuck-up.header.sticky > nav
+ndtv.in##.js-headerMain.top-header
+ndtv.in##.js-stuck-up.header.sticky
+ndtv.in##.js-stuck-down.header.sticky
+ndtv.in##.header.sticky
+ndtv.in##.firework-4250.pg-sdw.list-section
+ndtv.in##.js-active-nav.anchor.list-head
+ndtv.in##.cryptocurrency.pg-sdw.list-section
+
+! 2022-06-25 https://arstechnica.com
+arstechnica.com##.cne-interlude-container
+arstechnica.com##.ars-loaded.clearfix.article-content > .instream-wrap > .instream-container
+arstechnica.com##.superscroll-separator
+
