@@ -26,7 +26,7 @@ ndtv.in##div.pb-15:nth-of-type(1)
 ndtv.in##.story_ft-nav
 ndtv.in##.lozad
 
-! 2021-05-12 https://www.androidpolice.com
+!jdjdjsjdjj 2021-05-12 https://www.androidpolice.com
 www.androidpolice.com##.bo-wrapper
 www.androidpolice.com###post-775382 > .categories
 www.androidpolice.com##.footer.band
@@ -66,4 +66,4 @@ ndtv.in##.cryptocurrency.pg-sdw.list-section
 arstechnica.com##.cne-interlude-container
 arstechnica.com##.ars-loaded.clearfix.article-content > .instream-wrap > .instream-container
 arstechnica.com##.superscroll-separator
-
+mobile.twitter.com##a.r-1ny4l3l.r-1777fci.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-wgabs5.r-rull8r.r-oucylx.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(2)
