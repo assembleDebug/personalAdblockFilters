@@ -67,3 +67,5 @@ arstechnica.com##.cne-interlude-container
 arstechnica.com##.ars-loaded.clearfix.article-content > .instream-wrap > .instream-container
 arstechnica.com##.superscroll-separator
 mobile.twitter.com##a.r-1ny4l3l.r-1777fci.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-wgabs5.r-rull8r.r-oucylx.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(2)
+mobile.twitter.com##.r-2j7rtt.r-1vsu8ta.r-1777fci.r-1pz39u2.r-obd0qt.css-1dbjc4n
+
