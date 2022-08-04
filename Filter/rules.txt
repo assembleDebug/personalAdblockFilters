@@ -1,3 +1,32 @@
+! 2022-08-04 https://www.apkmirror.com
+www.apkmirror.com##.google-ad-leaderboard.AVn.gooWidget
+www.apkmirror.com##.google-ad-square.AVn.gooWidget
+www.apkmirror.com##.ai-track.ains-apkm_index_injected_2.ains-4.ains
+www.apkmirror.com##.adslot.adsbygoogle
+www.apkmirror.com##.ai-track.ains-apkm_index_injected_1.ains-3.ains
+www.apkmirror.com##.ai-track.ains-apkm_index_injected_3.ains-5.ains
+www.apkmirror.com##.ains-apkm_billboard_top.ains-45.ains > .membership-text.advertisement-text
+www.apkmirror.com##.promotedApp.appRow
+www.apkmirror.com##.ains-apkm_dev_page_top.ains-10.ains > .membership-text.advertisement-text
+www.apkmirror.com##.ains-apkm_dev_page_bottom.ains-9.ains > .membership-text.advertisement-text
+www.apkmirror.com##.ains-apkm_developers_injected_1.ains-6.ains > .membership-text.advertisement-text
+www.apkmirror.com##.ains-apkm_developers_injected_1.ains-6.ains
+www.apkmirror.com##.ains-apkm_developers_injected_3.ains-8.ains
+www.apkmirror.com##.ains-apkm_developers_injected_2.ains-7.ains
+www.apkmirror.com##.membership-text.advertisement-text
+www.apkmirror.com##div.listWidget:nth-of-type(8)
+www.apkmirror.com##.expandMargins.NpQ.vLM.t-height > .table-row > div.table-cell
+www.apkmirror.com##.expandMargins.QgE.Udc.t-height
+www.apkmirror.com##.ains-apkm_apk_page_downloadtab.ains-15.ains
+www.apkmirror.com##.ains-apkm_apk_page_belowdownloadbox.ains-14.ains
+www.apkmirror.com##.ains-apkm_release_page_top.ains-24.ains
+www.apkmirror.com##.ains-apkm_release_page_below_description_above_downloads.ains-26.ains
+www.apkmirror.com##.ains-apkm_release_page_middle.ains-25.ains
+www.apkmirror.com##.f-nowrap.d-flex.site-actions
+www.apkmirror.com##.ellipsisText.addpadding
+www.apkmirror.com##.ains-apkm_outbrain_ad.ains-51.ains
+www.apkmirror.com##div.listWidget:nth-of-type(9)
+
 ||sb.scorecardresearch.com^
 ||api.snapkit.com/v1/sdk/metrics/business/anonymous
 ||www.jiosaavn.com^
@@ -68,28 +97,6 @@ arstechnica.com##.ars-loaded.clearfix.article-content > .instream-wrap > .instre
 arstechnica.com##.superscroll-separator
 mobile.twitter.com##a.r-1ny4l3l.r-1777fci.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-wgabs5.r-rull8r.r-oucylx.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(2)
 mobile.twitter.com##.r-2j7rtt.r-1vsu8ta.r-1777fci.r-1pz39u2.r-obd0qt.css-1dbjc4n
-
-
-||apkmirror.disqus.com^
-apkmirror.com##script:contains(canRunAds)
-! 2022-07-19 https://www.apkmirror.com
-www.apkmirror.com##.ains-apkm_apk_page_top.ains-13.ains
-www.apkmirror.com##.ains-apkm_apk_page_downloadtab.ains-15.ains
-www.apkmirror.com##.ains-apkm_apk_page_belowdownloadbox.ains-14.ains
-www.apkmirror.com###appmanager_sppostswidget-2 > .listWidget
-www.apkmirror.com##.ains-apkm_index_injected_1.ains-3.ains
-www.apkmirror.com##div.appRow:nth-of-type(16)
-www.apkmirror.com##div.appRow:nth-of-type(8)
-www.apkmirror.com##div.appRow:nth-of-type(24)
-www.apkmirror.com##.container > div
-www.apkmirror.com##.ains-apkm_release_page_top.ains-24.ains
-www.apkmirror.com##.ains-apkm_release_page_below_description_above_downloads.ains-26.ains
-www.apkmirror.com##.ains-apkm_release_page_middle.ains-25.ains
-www.apkmirror.com##.google-ad-leaderboard.gooWidget
-www.apkmirror.com##.ains-apkm_uploads_page_top.ains-40.ains
-www.apkmirror.com##div.listWidget:nth-of-type(7)
-www.apkmirror.com###disqus_thread
-www.apkmirror.com###content > div.listWidget > .widgetHeader
 
 ! 2022-07-19 https://dict.hinkhoj.com
 dict.hinkhoj.com##.div_wb_margin.dict_search_bkwhite_wb.row
