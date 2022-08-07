@@ -125,3 +125,7 @@ gadgets360.com##._trndwgt
 gadgets360.com##.newshindiwgt.margin_b30
 ||open.spotify.com/embed/episode/$subdocument
 gadgets360.com###belowtxt
+gadgets360.com###mid_ad_1
+gadgets360.com###mid_ad_2
+gadgets360.com###mid_ad_3
+gadgets360.com##div.clearfix.oneline.alsoseewgt
