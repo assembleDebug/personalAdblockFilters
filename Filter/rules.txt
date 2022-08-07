@@ -129,3 +129,18 @@ gadgets360.com###mid_ad_1
 gadgets360.com###mid_ad_2
 gadgets360.com###mid_ad_3
 gadgets360.com##div.clearfix.oneline.alsoseewgt
+
+
+! 2022-08-07 https://www.jansatta.com
+www.jansatta.com##.ad-bg-container
+www.jansatta.com##.global-popup-box.js-coachmarks-callout-box
+www.jansatta.com##.parent_also_read
+www.jansatta.com##.embed-youtube
+www.jansatta.com##.ie-network-also-read.undefined.wp-block-ie-network-blocks-also-read
+www.jansatta.com##.wp-has-aspect-ratio.wp-embed-aspect-16-9.wp-block-embed-youtube.is-provider-youtube.is-type-video.wp-block-embed
+www.jansatta.com##.show.ie-click-event.app-btn
+www.jansatta.com##.tag-style.wp-block-post-tags
+www.jansatta.com##.common-bottom-text
+www.jansatta.com##.follow-us-on
+www.jansatta.com##.footer
+www.jansatta.com##.text-right.columns
