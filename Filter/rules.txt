@@ -108,3 +108,20 @@ dict.hinkhoj.com##.col-xs-12.col-sm-5.col-md-5
 dict.hinkhoj.com##.footer
 dict.hinkhoj.com##.kb_small_sidebar > .mob_pad_cls.font_head_size > div > div
 dict.hinkhoj.com##.new-right-pad.col-xs-12.col-sm-12.col-md-
+
+! 2022-08-06 https://gadgets360.com
+gadgets360.com##.newslist ._ad
+gadgets360.com##.__agifstk
+gadgets360.com##.inc.fullreview > .edge2edge._ad
+gadgets360.com##._ftgry
+gadgets360.com##._ovfhide._wgtpc
+gadgets360.com##.sstop.sharemovejs.social-share
+gadgets360.com###story_fulldetails > .edge2edge._ad
+gadgets360.com##.btmSection
+gadgets360.com##.clearfix.mtpl.alsoseewgt
+gadgets360.com##.bycoinswitchbnrjsmoveup.bycoinswitchbnr
+gadgets360.com##._gamewgt._eplnkw
+gadgets360.com##._trndwgt
+gadgets360.com##.newshindiwgt.margin_b30
+||open.spotify.com/embed/episode/$subdocument
+gadgets360.com###belowtxt
