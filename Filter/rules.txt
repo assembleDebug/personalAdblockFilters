@@ -130,6 +130,7 @@ gadgets360.com###mid_ad_2
 gadgets360.com###mid_ad_3
 gadgets360.com##div.clearfix.oneline.alsoseewgt
 ||www.ndtv.com/video/embed-player/$subdocument
+gadgets360.com##.vidstkdiv > ._cls._sp
 
 
 ! 2022-08-07 https://www.jansatta.com
