@@ -1,3 +1,13 @@
+||api.sec.intl.miui.com^$app=com.android.htmlviewer
+||prod.bhaskarapi.com^
+||api.bugfender.com^
+||syndication.twitter.com^
+||www.instagram.com/static/bundles/es6/EmbedSimpleBase.css/67ac6f7b1749.css$domain=instagram.com
+||www.instagram.com/static/bundles/es6/EmbedSimple.js/4515fcaa5551.js$domain=instagram.com
+||www.instagram.com/static/bundles^
+||concertads-configs.vox-cdn.com/duet/config.json$domain=theverge.com
+||static.scroll.com^
+||in.appcenter.ms^$app=tw.nekomimi.nekogram
 ! 2022-08-04 https://www.apkmirror.com
 www.apkmirror.com##.google-ad-leaderboard.AVn.gooWidget
 www.apkmirror.com##.google-ad-square.AVn.gooWidget
@@ -26,24 +36,29 @@ www.apkmirror.com##.f-nowrap.d-flex.site-actions
 www.apkmirror.com##.ellipsisText.addpadding
 www.apkmirror.com##.ains-apkm_outbrain_ad.ains-51.ains
 www.apkmirror.com##div.listWidget:nth-of-type(9)
-
 ||sb.scorecardresearch.com^
 ||api.snapkit.com/v1/sdk/metrics/business/anonymous
 ||www.jiosaavn.com^
 ||staticfe.saavn.com^
 ||c.saavncdn.com^
 
-! 2021-05-01 https://www.jansatta.com
-www.jansatta.com##header > .mainbox
-www.jansatta.com##.js-btm-nav
+2021-05-12 https://www.androidpolice.com
+www.androidpolice.com##.bo-wrapper
+www.androidpolice.com###post-775382 > .categories
+www.androidpolice.com##.footer.band
+www.androidpolice.com##.column.secondary
+www.androidpolice.com##.categories
+www.androidpolice.com##.article-nav
+www.androidpolice.com##.single-post-widget
+www.androidpolice.com##.post-footer-meta
+www.androidpolice.com###disqus_recommendations
+www.androidpolice.com##.ad-zone-content-below-main-pic.ad-zone
+www.androidpolice.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr1 > .ad-current
+www.androidpolice.com##.adzone-above-latest
 
-! 2021-05-02 https://ndtv.in
+! 2022-06-25 https://ndtv.in
 ndtv.in##.add__wrp
-
-! 2021-05-11 https://www.jiosaavn.com
 ||jiosaavn.cdn.jio.com^$domain=www.jiosaavn.com
-
-! 2021-05-11 https://ndtv.in
 ndtv.in###jsw-wrap
 ndtv.in##.head-story__wrp > .story__social
 ndtv.in##.swiper-wrapper
@@ -54,24 +69,6 @@ ndtv.in##.footer-section
 ndtv.in##div.pb-15:nth-of-type(1)
 ndtv.in##.story_ft-nav
 ndtv.in##.lozad
-
-!jdjdjsjdjj 2021-05-12 https://www.androidpolice.com
-www.androidpolice.com##.bo-wrapper
-www.androidpolice.com###post-775382 > .categories
-www.androidpolice.com##.footer.band
-www.androidpolice.com##.column.secondary
-www.androidpolice.com##.categories
-www.androidpolice.com##.article-nav
-www.androidpolice.com##.single-post-widget
-www.androidpolice.com##.post-footer-meta
-www.androidpolice.com###disqus_recommendations
-
-! 2022-06-25 https://www.androidpolice.com
-www.androidpolice.com##.ad-zone-content-below-main-pic.ad-zone
-www.androidpolice.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr1 > .ad-current
-www.androidpolice.com##.adzone-above-latest
-
-! 2022-06-25 https://ndtv.in
 ndtv.in##.list > section.add-section > .add__wrp
 ndtv.in##.trd_lst-wrp.swiper-wrapper
 ndtv.in##.add-section
@@ -91,10 +88,16 @@ ndtv.in##.firework-4250.pg-sdw.list-section
 ndtv.in##.js-active-nav.anchor.list-head
 ndtv.in##.cryptocurrency.pg-sdw.list-section
 
-! 2022-06-25 https://arstechnica.com
+! 2022-12-26 https://arstechnica.com
+arstechnica.com##.ad_crown.ad
+arstechnica.com##.instream-container
+arstechnica.com###little-head
+arstechnica.com###burger-time
 arstechnica.com##.cne-interlude-container
+arstechnica.com###page-footer
 arstechnica.com##.ars-loaded.clearfix.article-content > .instream-wrap > .instream-container
 arstechnica.com##.superscroll-separator
+
 mobile.twitter.com##a.r-1ny4l3l.r-1777fci.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-wgabs5.r-rull8r.r-oucylx.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(2)
 mobile.twitter.com##.r-2j7rtt.r-1vsu8ta.r-1777fci.r-1pz39u2.r-obd0qt.css-1dbjc4n
 
@@ -109,7 +112,10 @@ dict.hinkhoj.com##.footer
 dict.hinkhoj.com##.kb_small_sidebar > .mob_pad_cls.font_head_size > div > div
 dict.hinkhoj.com##.new-right-pad.col-xs-12.col-sm-12.col-md-
 
-! 2022-08-06 https://gadgets360.com
+! 2022-12-26 https://www.gadgets360.com
+www.gadgets360.com##._ftrwrp
+www.gadgets360.com###__g360_wdgt
+www.gadgets360.com##.margin_b30.margin_t30._vdowgt.clear
 gadgets360.com##.newslist ._ad
 gadgets360.com##.__agifstk
 gadgets360.com##.inc.fullreview > .edge2edge._ad
@@ -132,9 +138,11 @@ gadgets360.com##div.clearfix.oneline.alsoseewgt
 ||www.ndtv.com/video/embed-player/$subdocument
 gadgets360.com##.vidstkdiv > ._cls._sp
 gadgets360.com##.vidstkdiv
-
+www.gadgets360.com##._kpw_wrp_rhs_widget
 
 ! 2022-08-07 https://www.jansatta.com
+www.jansatta.com##header > .mainbox
+www.jansatta.com##.js-btm-nav
 www.jansatta.com##.ad-bg-container
 www.jansatta.com##.global-popup-box.js-coachmarks-callout-box
 www.jansatta.com##.parent_also_read
@@ -147,3 +155,9 @@ www.jansatta.com##.common-bottom-text
 www.jansatta.com##.follow-us-on
 www.jansatta.com##.footer
 www.jansatta.com##.text-right.columns
+www.thehindu.com###latest_news_module_mobile
+www.thehindu.com##.discover.container
+www.thehindu.com##footer > .container
+www.thehindu.com##.footer-end
+www.thehindu.com##.flooting-ad
+www.thehindu.com###sectiondivicymi
