@@ -1,0 +1,8 @@
+||fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com^
+||api.sec.intl.miui.com^
+||fr.resolver.msg.global.xiaomi.net^
+||fr-app-chat-global-xiaomi-net-3-1830982956.eu-central-1.elb.amazonaws.com^
+||fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com^
+||fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com^
+||in.appcenter.ms^
+||sb.scorecardresearch.com^
